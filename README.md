@@ -1,1 +1,1 @@
-# clg.project
+# class.project
